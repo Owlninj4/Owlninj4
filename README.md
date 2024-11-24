@@ -27,6 +27,13 @@ Seorang pria biasa dari tanah sumatera, sering dikenal sebagai Gotham City Indon
 - **Version Control:** Git, GitHub
 - **Microsoft Office:** Word, Excel, Power Point
 
+
+<p align="left">
+<a href="https://github.com/Owlninj4">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--## 🛠 Projects
 ### 1. **Smartpad Project**
 - **Deskripsi:** Sebuah perangkat multifungsi untuk mahasiswa yang dapat digunakan sebagai kartu perpustakaan, kartu parkir, kartu akses, dan alat identitas.
